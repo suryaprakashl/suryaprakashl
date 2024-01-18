@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suryaprakash Software Developer 👋
+- 👋 Hi, I’m suryaprakash Software Developer 👋
 <!---
 suryaprakashl/suryaprakashl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
